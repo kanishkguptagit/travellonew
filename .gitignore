@@ -1,0 +1,16 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+virtualEnvio
+myvenv
+test2
+db.sqlite3
+static
+.DS_Store
+*.log
+*.pot
+*.bak
+*.py[cod]
+*$py.class
+coalIndia_website/secretkey.py
